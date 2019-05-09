@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="currency-converssion-service"/>
+<aop-project name="forex-service"/>
+<aop-project name="eureka-naming-server"/>
+<aop-project name="forexservice"/>
+<aop-project name="bankapp"/>
+<aop-project name="currency-conversion-service"/>
+</aop-reference-model>
